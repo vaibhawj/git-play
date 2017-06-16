@@ -9,4 +9,5 @@ Playing with git
 - git stash (Can save your committed/uncommitted changes in a local WIP branch for later use)
 - git remote add origin <repo url> (origin is an alias for the remote url)
 - git push -u origin branch
+- git reset --hard origin/master (To throw away unpushed commits)
 
